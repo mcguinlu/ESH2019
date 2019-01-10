@@ -1,9 +1,19 @@
 ## Evidence Synthesis Hackathon 2019 Application - Luke McGuinness
 
-You can use the [editor on GitHub](https://github.com/mcguinlu/ESH2019/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+### Relevant Experience
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+* Jan 2019 -Present: NIHR Doctoral Research Fellow / Reserach Associate in Evidence Synthesis
+* Sept 2016 - Dec 2018: NIHR Evidence Synthesis & Systematic Review Methodology Reserach Fellow, University of Bristol
 
+
+
+### Relevant Projects
+* *hetprior*: a Shiny web application that allows evidence synthesists to search a database of prior distributions to inform the heterogeneity parameter of their Bayesian meta-analytical models. Available [here](https://mcguinlu.shinyapps.io/shiny/). 
+
+### Education
+
+* 2017: MSc Epidemiology, London School of Hygiene and Tropical Medicine
+* 2016: BA Genentics, Smurfit Institute of Genetics, Trinity College Dublin
 
 ### Justification for funding requested
 
