@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Evidence Synthesis Hackathon 2019 Application - Luke McGuinness
 
 You can use the [editor on GitHub](https://github.com/mcguinlu/ESH2019/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
