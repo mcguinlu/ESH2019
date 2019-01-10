@@ -11,6 +11,8 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
+
+
 # Header 1
 ## Header 2
 ### Header 3
@@ -25,6 +27,14 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
+**Item** | **Breakdown** | **Total** | **Source**
+------------ | ------------- | ------------- | -------------
+Flights |  | ~£900 | Return flights to Sydney from Heathrow
+Accomodation | 3 nights x £80/night | ~£240 | Accommodation for the duration of the Hackathon
+Visa |  | ~£0 | Not required
+Course fee |  | ~£50 | Student rate
+**Grand Total** | | **£1190** | 
+
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
