@@ -3,12 +3,16 @@
 ### Relevant Experience
 
 * Jan 2019 -Present: NIHR Doctoral Research Fellow / Reserach Associate in Evidence Synthesis
-* Sept 2016 - Dec 2018: NIHR Evidence Synthesis & Systematic Review Methodology Reserach Fellow, University of Bristol
-
+  * Underaking a PhD using evidence synthesis methodology to explore the link between blood lipid level concentrations and dementia risk.
+  * 
+  
+* Sept 2016 - Dec 2018: NIHR Evidence Synthesis & Systematic Review Methodology Research Fellow, University of Bristol
+  * Worked primarily on the Risk of Bias In Non-randomised Studies - of Interventions (ROBINS-I) risk of bias assessment tool. 
 
 
 ### Relevant Projects
 * *hetprior*: a Shiny web application that allows evidence synthesists to search a database of prior distributions to inform the heterogeneity parameter of their Bayesian meta-analytical models. Available [here](https://mcguinlu.shinyapps.io/shiny/). 
+
 
 ### Education
 
@@ -20,6 +24,7 @@
 *Item* | *Breakdown* | *Total* | *Source*
 ------------ | ------------- | :-------------: | -------------
 Flights |  | ~£900 | Return flights to Sydney from Heathrow
+Train |  | ~£50 | Return train ticket from Sydney to Canberra (AUS$90)
 Accomodation | 3 nights x £80/night | ~£240 | Accommodation for the duration of the Hackathon
 Visa |  | ~£0 | Not required
 Course fee |  | ~£50 | Student rate
