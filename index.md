@@ -1,13 +1,18 @@
 ## Evidence Synthesis Hackathon 2019 Application - Luke McGuinness
 
+Thank you for your consideration of my application for ESH2019 in Canberra, Australia. Please find below a curated CV in addition to supporting materials for my application. 
+
+## CV
+
 ### Relevant Experience
 
-* Jan 2019 -Present: NIHR Doctoral Research Fellow / Reserach Associate in Evidence Synthesis
-  * Underaking a PhD using evidence synthesis methodology to explore the link between blood lipid level concentrations and dementia risk.
+* **Jan 2019 -Present**: NIHR Doctoral Research Fellow / Reserach Associate in Evidence Synthesis
+  * Currently underaking a PhD using evidence synthesis methodology to explore the link between blood lipid level concentrations and dementia risk.
   * 
   
-* Sept 2016 - Dec 2018: NIHR Evidence Synthesis & Systematic Review Methodology Research Fellow, University of Bristol
-  * Worked primarily on the Risk of Bias In Non-randomised Studies - of Interventions (ROBINS-I) risk of bias assessment tool. 
+* **Sept 2016 - Dec 2018**: NIHR Evidence Synthesis & Systematic Review Methodology Research Fellow, University of Bristol
+  * Worked primarily on the *Risk of Bias In Non-randomised Studies - of Interventions (ROBINS-I)* risk of bias assessment tool. 
+  * Performed user testing and developed an online implementation of the tool in association with the Computer Science department. This  project is currently in the User Acceptance Testing stage.
 
 
 ### Relevant Projects
@@ -16,9 +21,10 @@
 
 ### Education
 
-* 2017: MSc Epidemiology, London School of Hygiene and Tropical Medicine
-* 2016: BA Genentics, Smurfit Institute of Genetics, Trinity College Dublin
+* **2017**: MSc Epidemiology, London School of Hygiene and Tropical Medicine
+* **2016**: BA Genentics, Smurfit Institute of Genetics, Trinity College Dublin
 
+## Supporting materials
 ### Justification for funding requested
 
 *Item* | *Breakdown* | *Total* | *Source*
