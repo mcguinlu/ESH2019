@@ -18,7 +18,7 @@
 ### Justification for funding requested
 
 *Item* | *Breakdown* | *Total* | *Source*
------------- | ------------- | ------------- | -------------
+------------ | ------------- | :-------------: | -------------
 Flights |  | ~£900 | Return flights to Sydney from Heathrow
 Accomodation | 3 nights x £80/night | ~£240 | Accommodation for the duration of the Hackathon
 Visa |  | ~£0 | Not required
