@@ -6,9 +6,9 @@ Thank you for your consideration of my application for ESH2019 in Canberra, Aust
 
 ### Relevant Experience
 
-* **Jan 2019 -Present**: NIHR Doctoral Research Fellow / Reserach Associate in Evidence Synthesis
+* **Jan 2019 - Present**: NIHR Doctoral Research Fellow / Reserach Associate in Evidence Synthesis
   * Currently underaking a PhD using evidence synthesis methodology to explore the link between blood lipid level concentrations and dementia risk.
-  * 
+  
   
 * **Sept 2016 - Dec 2018**: NIHR Evidence Synthesis & Systematic Review Methodology Research Fellow, University of Bristol
   * Worked primarily on the *Risk of Bias In Non-randomised Studies - of Interventions (ROBINS-I)* risk of bias assessment tool. 
