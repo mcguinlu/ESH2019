@@ -1,4 +1,4 @@
-# Evidence Synthesis Hackathon 2019 Application - Luke McGuinness
+# Evidence Synthesis Hackathon 2019 Application - Luke A McGuinness
 
 Thank you for your consideration of my application for ESH2019 in Canberra, Australia. Please find below a curated CV in addition to supporting materials for my application. 
 
