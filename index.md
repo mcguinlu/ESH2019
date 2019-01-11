@@ -1,6 +1,18 @@
 # Evidence Synthesis Hackathon 2019 Application - Luke A McGuinness
 
-Thank you for your consideration of my application for ESH2019 in Canberra, Australia. Please find  a curated CV below, in addition to  materials in support of my application. 
+Thank you for your consideration of my application for ESH2019 in Canberra, Australia. Please find materials in support of my application below, in addition to a curated CV. 
+
+## Supporting materials
+### Justification for funding requested
+
+*Item* | *Breakdown* | *Total* | *Source*
+------------ | ------------- | :-------------: | -------------
+Flights |  | ~£900 | Return flights to Sydney from Heathrow
+Train |  | ~£50 | Return train ticket from Sydney to Canberra (AUS$90)
+Accomodation | 3 nights x £80/night | ~£240 | Accommodation for the duration of the Hackathon
+Visa |  | ~£0 | Not required
+Course fee |  | ~£50 | Student rate
+**Grand Total** | | **£1190** | 
 
 ## CV
 
@@ -24,17 +36,6 @@ Thank you for your consideration of my application for ESH2019 in Canberra, Aust
 * **2017**: MSc Epidemiology, London School of Hygiene and Tropical Medicine
 * **2016**: BA Genetics, Smurfit Institute of Genetics, Trinity College Dublin
 
-## Supporting materials
-### Justification for funding requested
-
-*Item* | *Breakdown* | *Total* | *Source*
------------- | ------------- | :-------------: | -------------
-Flights |  | ~£900 | Return flights to Sydney from Heathrow
-Train |  | ~£50 | Return train ticket from Sydney to Canberra (AUS$90)
-Accomodation | 3 nights x £80/night | ~£240 | Accommodation for the duration of the Hackathon
-Visa |  | ~£0 | Not required
-Course fee |  | ~£50 | Student rate
-**Grand Total** | | **£1190** | 
 
 ### Selected publications
 
