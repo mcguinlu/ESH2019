@@ -35,3 +35,12 @@ Accomodation | 3 nights x £80/night | ~£240 | Accommodation for the duration o
 Visa |  | ~£0 | Not required
 Course fee |  | ~£50 | Student rate
 **Grand Total** | | **£1190** | 
+
+### Selected publications
+* **McGuinness, L.A.**, Higgins, J.P.T., Sterne, J.A.C. (2018, Accepted). Assessing the credibility of findings from non-randomised studies of interventions. JAMA Cardiology
+* Cheng, H. Y., Elbers, R. G., Higgins, J. P., Taylor, A., MacArthur, G. J., **McGuinness, L.A.**, ... & Kessler, D. (2017). Therapeutic interventions for alcohol dependence in non-inpatient settings: a systematic review and network meta-analysis (protocol). Systematic Reviews, 6(1), 77.
+* Higgins, J.P.T., López-López, J.A., Becker B.J., Davies S.R., Dawson S., Grimshaw J.M., **McGuinness, L.A.**, Rehfuess E.A., Thomas J., Caldwell D.M. (2017, submitted). Synthesizing quantitative evidence in systematic reviews of complex health interventions. BMJ Global Health
+* **McGuinness, L.A.**, Warren-Gash, C., Moorhouse, L., Thomas, S.L. (2018, submitted). The validity of dementia diagnoses in routinely collected electronic health records in the United Kingdom: a systematic review. Pharmacoepidemiology and Drug Safety
+
+
+
