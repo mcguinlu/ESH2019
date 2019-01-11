@@ -11,12 +11,14 @@ Flights |  | ~£900 | Return flights to Sydney from Heathrow
 Train |  | ~£50 | Return train ticket from Sydney to Canberra (AUS$90)
 Accomodation | 3 nights x £80/night | ~£240 | Accommodation for the duration of the Hackathon
 Visa |  | ~£0 | Not required
-Course fee |  | ~£50 | Student rate
-**Grand Total** | | **£1190** | 
+**Grand Total** | | **£1140** | 
+
+### Funding statement
+I appeciate that the costs 
 
 ## CV
 
-### Relevant Experience
+### Relevant Reserach Experience
 
 * **Jan 2019 - Present**: NIHR Doctoral Research Fellow / Reserach Associate in Evidence Synthesis
   * Currently underaking a PhD using evidence synthesis methodology to explore the link between blood lipid level concentrations and dementia risk.
@@ -25,6 +27,7 @@ Course fee |  | ~£50 | Student rate
 * **Sept 2016 - Dec 2018**: NIHR Evidence Synthesis & Systematic Review Methodology Research Fellow, University of Bristol
   * Worked primarily on the *Risk of Bias In Non-randomised Studies - of Interventions (ROBINS-I)* risk of bias assessment tool. 
   * Performed user testing and developed an online implementation of the tool in association with the Computer Science department. This  project is currently in the User Acceptance Testing stage.
+  * *Teaching*: As part of my current role, I am involved in the development and delivery of materials as part of the University of Bristol's "Intro to Systematic Review and Meta-analysis" short course.
 
 
 ### Relevant Projects
