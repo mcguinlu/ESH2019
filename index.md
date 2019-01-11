@@ -21,16 +21,17 @@ I appeciate that the costs requested are substantial. As per your website, I am 
 ### Relevant Research Experience
 
 * **January 2019 - Present**: NIHR Doctoral Reserach Fellow in Evidence Synthesis
-  * Building on the expereience gained throught my pre-doctoral Fellowship, I am currently underaking a PhD using evidence synthesis methodology, specifically individual participant data meta-analysis and triangulation mapprocahes, to explore the link between blood lipid level concentrations and dementia risk.
+  * Building on the expereience gained throught my pre-doctoral Fellowship, I am currently underaking a PhD to explore the link between blood lipid level concentrations and dementia risk using evidence synthesis methodology, specifically individual participant data meta-analysis and triangulation approaches.
   * In addition to my thesis project, I am currently involved in several evidence syntheses projects on a broad range of topics, three of which are Cochrane Collaboration systematic reviews.
+  * As part of this role, I am involved in the development and delivery of materials for the "Introduction to Systematic Reviews and Meta-analysis" short course run by the Bristol Appraisal and Review of Research (BARR) team. 
  
 * **Sept 2016 - Dec 2018**: NIHR Evidence Synthesis & Systematic Review Methodology Research Fellow, University of Bristol
-  * Recent recipient of an NIHR Systematic Review Methodology Fellowship, with a focus on developing tools to allow for the assessment of risk of bias in non-randomised studies of interventions. 
+  * Recent recipient of an National Institutes of Health Research Systematic Review Methodology Fellowship, with a focus on developing tools to allow for the assessment of risk of bias in non-randomised studies of interventions. 
   * Member of the Bristol Appriasal & Review of Research Group.
  
 ### Relevant Projects
 * *hetprior*: a Shiny web application that allows evidence synthesists to search a database of prior distributions to inform the heterogeneity parameter of their Bayesian meta-analytical models. Available [here](https://mcguinlu.shinyapps.io/shiny/). 
-* ROBINS-I OWL: An online implementation of the ROBINS-I critical appriasal tool for epidemiological studies (currently in User Acceptance testing). This was a collaboration between myself and a member of the Computer Science department at the University.
+* ROBINS-I OWL: An online implementation of the ROBINS-I critical appraisal tool for epidemiological studies (currently in User Acceptance testing). This was a collaboration between myself and a member of the Computer Science department at the University.
 
 ### Education
 * **2021**: PhD Population Health Sciences, University of Bristol (candidate)
