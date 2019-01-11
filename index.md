@@ -1,6 +1,6 @@
 # Evidence Synthesis Hackathon 2019 Application - Luke A McGuinness
 
-Thank you for your consideration of my application for ESH2019 in Canberra, Australia. Please find below a curated CV in addition to supporting materials for my application. 
+Thank you for your consideration of my application for ESH2019 in Canberra, Australia. Please find  a curated CV below, in addition to  materials in support of my application. 
 
 ## CV
 
@@ -22,7 +22,7 @@ Thank you for your consideration of my application for ESH2019 in Canberra, Aust
 ### Education
 
 * **2017**: MSc Epidemiology, London School of Hygiene and Tropical Medicine
-* **2016**: BA Genentics, Smurfit Institute of Genetics, Trinity College Dublin
+* **2016**: BA Genetics, Smurfit Institute of Genetics, Trinity College Dublin
 
 ## Supporting materials
 ### Justification for funding requested
