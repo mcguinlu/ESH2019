@@ -1,6 +1,6 @@
 # Evidence Synthesis Hackathon 2019 Application - Luke A McGuinness
 
-Thank you for your consideration of my application for ESH2019 in Canberra, Australia. Please find materials in support of my application below, in addition to a curated CV. 
+Thank you for your consideration of my application for ESH2019 in Canberra, Australia. Please find materials in support of my application below.
 
 ## Supporting materials
 ### Justification for funding requested
@@ -14,7 +14,7 @@ Visa |  | ~£0 | Not required
 **Grand Total** | | **£1140** | 
 
 ### Funding statement
-I appeciate that the costs requested are substantial. As per your website, I am happy 
+
 
 ## CV
 
@@ -26,12 +26,12 @@ I appeciate that the costs requested are substantial. As per your website, I am 
   * As part of this role, I am involved in the development and delivery of materials for the "Introduction to Systematic Reviews and Meta-analysis" short course run by the Bristol Appraisal and Review of Research (BARR) team. 
  
 * **Sept 2016 - Dec 2018**: NIHR Evidence Synthesis & Systematic Review Methodology Research Fellow, University of Bristol
-  * Recent recipient of an National Institutes of Health Research Systematic Review Methodology Fellowship, with a focus on developing tools to allow for the assessment of risk of bias in non-randomised studies of interventions. 
+  * Recent recipient of an National Institutes of Health Research Systematic Review Methodology Fellowship, with a focus on developing tools to allow for the assessment of risk of bias in non-randomised studies of healthcare interventions. 
   * Member of the Bristol Appriasal & Review of Research Group.
  
 ### Relevant Projects
 * *hetprior*: a Shiny web application that allows evidence synthesists to search a database of prior distributions to inform the heterogeneity parameter of their Bayesian meta-analytical models. Available [here](https://mcguinlu.shinyapps.io/shiny/). 
-* ROBINS-I OWL: An online implementation of the ROBINS-I critical appraisal tool for epidemiological studies (currently in User Acceptance testing). This was a collaboration between myself and a member of the Computer Science department at the University.
+* ROBINS-I OWL: An online implementation of the ROBINS-I critical appraisal tool for epidemiological studies (currently undergoing User Acceptance testing). This was a collaboration between myself and a member of the Computer Science department at the University.
 
 ### Education
 * **2021**: PhD Population Health Sciences, University of Bristol (candidate)
@@ -40,7 +40,7 @@ I appeciate that the costs requested are substantial. As per your website, I am 
 
 ### Selected publications
 
-*	**McGuinness, L.A.**, Warren-Gash, C., Moorhouse, L., Thomas, S.L. (2018, In Press). The validity of dementia diagnoses in routinely collected electronic health records in the United Kingdom: a systematic review. Pharmacoepidemiology and Drug Safety
-*	Higgins, J.P.T., López-López, J.A., Becker B.J., Davies S.R., Dawson S., Grimshaw J.M., **McGuinness, L.A.**, Rehfuess E.A., Thomas J., Caldwell D.M. (2018, In Press). Synthesizing quantitative evidence in systematic reviews of complex health interventions. BMJ Global Health
+*	**McGuinness, L.A.**, Warren-Gash, C., Moorhouse, L., Thomas, S.L. (2019). The validity of dementia diagnoses in routinely collected electronic health records in the United Kingdom: a systematic review. Pharmacoepidemiology and Drug Safety, 1-12.
+*	Higgins, J.P.T., López-López, J.A., Becker B.J., Davies S.R., Dawson S., Grimshaw J.M., **McGuinness, L.A.**, Rehfuess E.A., Thomas J., Caldwell D.M. (2019). Synthesizing quantitative evidence in systematic reviews of complex health interventions. BMJ Global Health, 4, e000858.
 *	**McGuinness, L.A.**, Higgins J.P.T., Sterne J.A.C. Assessing the Credibility of Findings From Nonrandomized Studies of Interventions. JAMA Cardiology 2018;3(10):905-906
 *	Cheng, H. Y., Elbers, R. G., Higgins, J. P., Taylor, A., MacArthur, G. J., **McGuinness, L. A.**, ... & Kessler, D. (2017). Therapeutic interventions for alcohol dependence in non-inpatient settings: a systematic review and network meta-analysis (protocol). Systematic Reviews, 6(1), 77.
