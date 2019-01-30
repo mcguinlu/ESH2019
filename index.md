@@ -13,9 +13,6 @@ Accomodation | 3 nights x £80/night | ~£240 | Accommodation for the duration o
 Visa |  | ~£0 | Not required
 **Grand Total** | | **£1140** | 
 
-### Funding statement
-
-
 ## CV
 
 ### Relevant Research Experience
